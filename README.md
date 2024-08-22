@@ -28,3 +28,8 @@ The project focuses on answering the following questions.
 - Filters
 - Tooltip and
 - Visualization
+
+## Modelling
+
+The data involved in this project had no relationship as the dataset was one as shown in the model tank below:
+![](
