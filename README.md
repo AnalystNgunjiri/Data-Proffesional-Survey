@@ -18,3 +18,13 @@ The project focuses on answering the following questions.
 7. The relationship between age, education and the proffesional in varios  the countries.
 
 **Each of the a bove question was ansered in the progress and finalization of this project report.**
+
+## Core Skill Used in the Project.
+- Book marking
+- Data Analytics Expresion (DAX)
+- Data cleaning
+- Quick measures
+- Modelling
+- Filters
+- Tooltip and
+- Visualization
