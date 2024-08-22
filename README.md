@@ -31,5 +31,5 @@ The project focuses on answering the following questions.
 
 ## Modelling
 
-The data involved in this project had no relationship as the dataset was one as shown in the model tank below:
-![](
+The data involved in this project had no relationship as the dataset was one as shown in the auto-model tank below:
+![](Model.jpg)
