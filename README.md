@@ -42,4 +42,5 @@ to have. The insights are well depicted as below:
 ![](PbI.png)
 
 You can interact with the report here (https://app.powerbi.com/groups/me/reports/0c5c1ec0-8774-45fc-b5d6-dd3de0ffa709/ReportSection?experience=power-bi)
+
 ---
