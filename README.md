@@ -40,3 +40,5 @@ The data involved in this project had no relationship as the dataset was one as 
 The report comprises of a one detaied page visualizing the answers to all questions and issues that we would like to 
 to have. The insights are well depicted as below:
 ![](PbI.png)
+
+You can interact with the report here (https://app.powerbi.com/groups/me/reports/0c5c1ec0-8774-45fc-b5d6-dd3de0ffa709/ReportSection?experience=power-bi)
