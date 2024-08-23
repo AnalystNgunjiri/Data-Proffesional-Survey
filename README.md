@@ -33,3 +33,10 @@ The project focuses on answering the following questions.
 
 The data involved in this project had no relationship as the dataset was one as shown in the auto-model tank below:
 ![](Model.jpg)
+---
+
+## Visualization
+
+The report comprises of a one detaied page visualizing the answers to all questions and issues that we would like to 
+to have. The insights are well depicted as below:
+![](Pbl.png)
