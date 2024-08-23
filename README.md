@@ -39,4 +39,4 @@ The data involved in this project had no relationship as the dataset was one as 
 
 The report comprises of a one detaied page visualizing the answers to all questions and issues that we would like to 
 to have. The insights are well depicted as below:
-![](Pbi.png)
+![](PbI.png)
