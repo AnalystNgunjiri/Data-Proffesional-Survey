@@ -45,3 +45,15 @@ to have. The insights are well depicted as below:
 You can interact with the report here (https://app.powerbi.com/groups/me/reports/0c5c1ec0-8774-45fc-b5d6-dd3de0ffa709/ReportSection?experience=power-bi) All buttons have their respective question they are answering.
 
 ---
+
+## Conclusion and Recommendation.
+**From the analysis, the following conclusion and finding were arrived at**:
+### **1. Average salary by job title.**
+        - That data scients, architects and engineers earns the highest on              average.
+        - United States has posses the highest income from the proffesion.
+        - Python language is more prefered and used by most proffesions in             this field.
+        - Only a  small fraction of the labour force in the proffesion have             a stable worklife balance.
+        - Most of the proffesionals in the field about 4% are ok with their            salary.
+        -That most of the programing language are used in the Tech industry,             Telecommunication, Finance and Health sector.
+        -The Average age of the proffesionals in the survey displayed                   implies         that most of them might be youths below age of 30             year.
+        - The Proffesion is dominated by Males at approximately 74% with                 each having a take home salary of about $32k on average.
