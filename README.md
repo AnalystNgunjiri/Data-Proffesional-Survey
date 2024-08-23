@@ -49,7 +49,7 @@ You can interact with the report here (https://app.powerbi.com/groups/me/reports
 ## Conclusion and Recommendation.
 **From the analysis, the following conclusion and finding were arrived at**:
 ### **1. Average salary by job title.**
-        - That data scients, architects and engineers earns the highest on              average.
+        _ That data scients, architects and engineers earns the highest on              average.
         - United States has posses the highest income from the proffesion.
         - Python language is more prefered and used by most proffesions in             this field.
         - Only a  small fraction of the labour force in the proffesion have             a stable worklife balance.
