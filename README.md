@@ -5,7 +5,7 @@ This is a Power BI project that show analysis and visualization of Data for Prof
 ---
 ![](bbfaca06-3637-4f11-a95b-f22111358fa5.png)
 ---
-![](bbfaca06-3637-4f11-a95b-f22111358fa5.png)
+
 ## Problem Statement
 The project focuses on answering the following questions.
 
